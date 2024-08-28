@@ -1,4 +1,5 @@
 # main prompts
+- crea ejercicios en haskell donde solo se tiene conocimiento de funciones básicas como max, min, odd, even y las asociadas a lectura e impresión en consola. Se conoce if, case, pero se excluye lo relacionado a listas. Genera el enunciado solamente sin la solución. Genera 5 ejemplos de ejercicios básicos desde el más fácil al más difícil. Toma como referencia ejercicios como hallar IMC, área de un triángulo, etc. Genera 5 más relacionados al fútbol y la liga de campeones.
 - indicar 5 ejercicios básicos de haskell cuyos enunciados sean menores a 140 caracteres y puedan ser resueltos en menos de 3 minutos
 - indicar otros 5 ejercicios básicos de haskell cuyos enunciados sean menores a 140 caracteres y puedan ser resueltos en menos de 5 minutos. Excluir recursividad.
 - indicar 5 ejercicios básicos de haskell cuyos enunciados sean menores a 140 caracteres y puedan ser resueltos en menos de 3 minutos. Deben trabajar con listas
