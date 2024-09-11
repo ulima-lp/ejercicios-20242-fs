@@ -10,6 +10,7 @@
 - Cada solución puede ir en un archivo incluyendo el cero. P.e. 01, 02, etc. 
 - También todas las soluciones de una semana pueden ir en un solo archivo. P.e. ejercicios, soluciones, etc.
 - Puede usar un documento de Google Docs o un archivo con extensión: `hs`, `docx`, `txt`, `pl`, `cpp`
+- No subir archivos comprimidos: .zip, .7z, .rar, etc.
 - Una vez subido podrá ser actualizado hasta el domingo a las 23:59:59. Si se actualiza después, se considerará enviado en la última fecha.
 
 # Run
