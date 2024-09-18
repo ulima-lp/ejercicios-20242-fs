@@ -8,7 +8,7 @@ estrellas n = "* " ++ estrellas (n-1)
 -- Función piramide
 piramide :: Int -> String
 piramide 0 = ""
-piramide h = (piramide (h-1)) ++ "\n" ++ (estrellas h) 
+piramide h = (piramide (h-1)) ++ "\n" ++ (estrellas h)
 
 -- Ejecución
 main = do
