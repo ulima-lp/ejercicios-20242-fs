@@ -114,9 +114,9 @@ int WINAPI WinMain(HINSTANCE hInstance,
 
 
             glBegin(GL_LINE_LOOP); // Use GL_LINE_LOOP to draw a circle outline
-            int num_segments = 10;
-            int radius = 0.9;
-            double PI = 3.14159265358979323846;
+            int num_segments = 20;
+            GLfloat radius = 1.0f;
+            GLfloat PI = 3.14159265358f;
             glColor3f(1.0f, 0.0f, 0.0f);
             for (int i = 0; i < num_segments; i++) {
                 GLfloat theta_ = 2.0f * PI * (GLfloat)i / (GLfloat)num_segments; // angle in radians
