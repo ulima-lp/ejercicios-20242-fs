@@ -1,3 +1,6 @@
+## Visualize execution
+- https://pythontutor.com/render.html#mode=edit
+
 ## PROLOG
 - https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
 - https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb
