@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1727890845 source:d:\_workspaces\ulima\2024-2\ejercicios-20242-fs\opengl\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1727848048 source:d:\_workspaces\ulima\2024-2\ejercicios-20242-fs\opengl\mains.c
+	<windows.h>
+	<gl/gl.h>
+
+1727879438 source:d:\_workspaces\ulima\2024-2\ejercicios-20242-fs\opengl\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<string>
+
