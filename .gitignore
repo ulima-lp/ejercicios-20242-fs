@@ -24,3 +24,8 @@ cabal.project.local~
 *.exe
 lib/
 *.dll
+
+solutions/old
+old/
+**/bin
+**/obj
