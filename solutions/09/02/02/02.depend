@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729052347 source:d:\_workspaces\ulima\2024-2\ejercicios-20242-fs\solutions\09\02\02\main.cpp
+	"p8g.hpp"
+	<iostream>
+
+1683754125 d:\_workspaces\ulima\2024-2\ejercicios-20242-fs\solutions\09\02\02\p8g.hpp
+	<string>
+
